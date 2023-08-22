@@ -5,7 +5,7 @@ I am a computer science major who looks forward to taking this class. I enjoy pl
 Some of the games I play are Valorant, War Thunder, Escape From Tarkov, CSGO, and VTOLVR. I also enjoy outdoor activities
 like hiking or swiming.
 
-![photo of me](/20230718_153315.jpg)
+![photo of me](/assets/20230718_153315.jpg)
 
 ## UX Team Project
 
