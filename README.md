@@ -9,7 +9,7 @@ like hiking or swiming.
 
 ## UX Team Project
 
-Coming soon.
+[Schedule Builder](https://github.com/ChicoState/UX-ScheduleBuilder/tree/main)
 
 ## UX Journal
 
