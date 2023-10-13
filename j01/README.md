@@ -1,6 +1,6 @@
 # First Journal Entry...
 When I want a sandwich I usually order from Ike’s, to expedite the ordering and retrieval of my sandwich I order using their app. With other mobile ordering apps usually your device's location is used to find the nearest location of an establishment. When I first used the application instead of using my location I had to manually type out my location and find the nearest Ike’s location. Now I still have to go through 3 different screens after clicking order now to start my order.
-![photo of ikes home screen](assets/Screenshot_20231013_121559_Ike'sRewards.jpg)
+![photo of ikes home screen](/assets/Screenshot_20231013_121559_Ike'sRewards.jpg)
 ![photo of following screen](/assets/Screenshot_20231013_121649_Ike'sRewards.jpg)
 ![photo of following screen](/assets/Screenshot_20231013_121643_Ike'sRewards.jpg)
 ![photo of following screen](/assets/Screenshot_20231013_121656_Ike'sRewards.jpg)
