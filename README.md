@@ -13,4 +13,4 @@ like hiking or swiming.
 
 ## UX Journal
 
-[Read about my experience with Bash](j01/)
+[Read about my experience Ike's Sandwiches App](j01/)
