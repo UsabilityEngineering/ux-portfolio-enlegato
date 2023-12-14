@@ -15,4 +15,4 @@ like hiking or swiming.
 
 [Read about my experience Ike's Sandwiches App](j01/)
 
-[Read about my experience Open Broadcast Software](j01/j02)
+[Read about my experience Open Broadcast Software](j01/j02.md)
